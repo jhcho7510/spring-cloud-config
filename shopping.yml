@@ -1,0 +1,6 @@
+token:
+  expiration_time: 1975
+  secret: shopping_token
+
+gateway:
+  ip: 127.0.0.1
